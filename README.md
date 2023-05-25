@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Luna
+- 👋 Hi, I’m @lunabrun
 - Interests: Finite Element Method/Analysis (FEM/FEA), Biomechanics (specially related to dental implants), Ansys, Python
 - Current topics: Automatization of Ansys via Python (using Pyansys), Bone remodeling via different algorithms
 
