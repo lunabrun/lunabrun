@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunabrun
 - Interests: Finite Element Method/Analysis (FEM/FEA), Biomechanics (specially related to dental implants), Ansys, Python
-- Current topics: Automatization of Ansys via Python (using Pyansys), Bone remodeling via different algorithms
+- Current topics: Automatization of Ansys via Python (using PyAnsys), Bone remodeling via different algorithms, fatigue of implantas (using pyLife)
 
 <!---
 - 💞️ I’m looking to collaborate on any of the topics above
